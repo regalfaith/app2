@@ -1,2 +1,2 @@
-&My first git project
-This is the first github test project
+# App2
+This is App2
